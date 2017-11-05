@@ -1,0 +1,3 @@
+# Day 15
+
+This really includes Friday, Saturday, and Sunday. Friday was great, worked on a little more organization of our team project and felt good about the progress we'd made so far. Saturday I worked on getting some general javascript working to load flashcards on the page. It it very similar to the Bus Mall app, but adding more images. I am trying to make the code cleaner, but unfortunately, it's messing with my results. I will continue working out the bugs of this today and tomorrow. Once this is completed, then it's a simple copy/paste for the other topics of flashcards to work. Hoping the upcoming week goes smoothly!
