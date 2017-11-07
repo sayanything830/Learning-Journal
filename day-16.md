@@ -1,0 +1,3 @@
+# Day 16
+
+Today was the first day we completed a 10am standup meeting and checked in on everyone's progress from the weekend. We had a good framework started before the weekend, and updated some components to make our MVP more achievable in a reasonable time. My logic code was not working properly this morning, however, with a little bit of tweaking from Mitchell, we got it running the way we want. Ultimately we decided to make the reloading page a stretch goal and just focus on being able to populate a page with a specific set of images and create a transition effect in css that will 'flip' a flashcard over to reveal the answer. Stretch goal it to have a feature where the page will refresh and a new set of flashcards will populate the page.
