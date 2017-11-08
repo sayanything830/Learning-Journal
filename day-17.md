@@ -1,0 +1,3 @@
+# Day 17
+
+Today was a very productive day, we got our app to basic MVP status! A lot of the work was menial image modifying and plugging it in to our .js files. I also worked on getting the form on our homepage to direct the user to the study guide page of the topic they selected (which seemed like a bigger ordeal than it needed to be, but it works!) I am happy with the progress my team made today, everyone came in with the attitude of getting things done and now we can focus on some stretch goals and styling. If all goes well tomorrow, we'll have a more finished looking product by the time we leave.
